@@ -1,0 +1,64 @@
+{
+  "accounts": {
+    "plan1hr": {
+      "mikrotik_user": "",
+      "mikrotik_pass": ""
+    },
+    "plan12hr": {
+      "mikrotik_user": "",
+      "mikrotik_pass": ""
+    },
+    "plan1d": {
+      "mikrotik_user": "",
+      "mikrotik_pass": ""
+    },
+    "plan7d": {
+      "mikrotik_user": "",
+      "mikrotik_pass": ""
+    },
+    "plan20": {
+      "mikrotik_user": "",
+      "mikrotik_pass": ""
+    },
+    "plan30d": {
+      "mikrotik_user": "",
+      "mikrotik_pass": ""
+    },
+    "betfalme": {
+      "login": "",
+      "phone": "",
+      "password": "",
+      "user_api": "",
+      "mikrotik_user": "",
+      "mikrotik_pass": ""
+    },
+    "sofabets": {
+      "login": "",
+      "user": "",
+      "pass": "",
+      "user_api": "",
+      "mikrotik_user": "",
+      "mikrotik_pass": ""
+    },
+    "safibets": {
+      "login": "",
+      "user": "",
+      "pass": "",
+      "user_api": "",
+      "mikrotik_user": "",
+      "mikrotik_pass": ""
+    },
+    "spurbets": {
+      "login": "",
+      "user": "",
+      "pass": "",
+      "user_api": "",
+      "mikrotik_user": "",
+      "mikrotik_pass": ""
+    }
+  },
+  "files": {
+    "usersFile": "users.json",
+    "balancesFile": "balances.json"
+  }
+}
